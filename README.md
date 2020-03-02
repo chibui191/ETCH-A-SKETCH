@@ -1,6 +1,8 @@
 # ETCH-A-SKETCH
 [The Odin Project - Web 101] Project: ETCH-A-SKETCH
 
+[View in Browser](https://chibui191.github.io/ETCH-A-SKETCH/)
+
 Introduction
 
 In this project you’re going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
